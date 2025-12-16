@@ -24,7 +24,7 @@ export default function Home() {
             </h1>
             
             <p className="text-xl md:text-2xl text-slate-400 mb-12 max-w-2xl mx-auto leading-relaxed">
-              Lingma Library 为您提供全流程数字化图书管理解决方案，
+              Modern Library 为您提供全流程数字化图书管理解决方案，
               体验前所未有的高效与便捷。
             </p>
             
@@ -135,9 +135,9 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center text-slate-500">
           <div className="flex items-center justify-center gap-2 mb-4 opacity-75">
              <Library size={24} />
-             <span className="font-bold text-lg text-slate-700">Lingma Library</span>
+             <span className="font-bold text-lg text-slate-700">Modern Library</span>
           </div>
-          <p>© 2024 Lingma Library System. All rights reserved.</p>
+          <p>© 2024 Modern Library System. All rights reserved.</p>
         </div>
       </footer>
     </div>
