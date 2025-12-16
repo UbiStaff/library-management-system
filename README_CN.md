@@ -5,6 +5,8 @@
 [![Node.js](https://img.shields.io/badge/backend-Node.js-339933.svg)](https://nodejs.org/)
 [![SQLite](https://img.shields.io/badge/database-SQLite-003B57.svg)](https://www.sqlite.org/)
 
+[中文文档](README_CN.md) | [English Documentation](README.md)
+
 Modern Library 是一个基于 React 和 Node.js 开发的全栈图书管理系统，采用现代化的 UI 设计风格，提供流畅的用户体验和高效的图书管理功能。
 
 ## ✨ 核心特性
